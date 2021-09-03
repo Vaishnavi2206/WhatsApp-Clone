@@ -34,7 +34,7 @@ function Login() {
                 />
 
                 <div className="login__text">
-                    <h1>Sign In to WhatsApp</h1>
+                    <h1>Sign In to WhatsApp!</h1>
                 </div>
 
                 <Button onClick={signIn}>
